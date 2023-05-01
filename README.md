@@ -3,6 +3,7 @@
 ``` cpp
 IntList myList; //object
 ```
+Main creates an empty list, appends nodes, inserts nodes, and displays nodes.
 ## Function Class Design
 ``` cpp
 // Default constructor
